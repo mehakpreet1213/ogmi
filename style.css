@@ -1,0 +1,16 @@
+.grid{
+ display: flex;   
+flex-wrap: wrap; 
+justify-content: space-between;
+align-content: space-around ;
+} 
+
+
+.card{
+
+border-radius: 26px;
+border-color: chartreuse;
+border-width: 2px;
+background-color: chocolate;
+
+}
